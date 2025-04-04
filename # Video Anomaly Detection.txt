@@ -1,0 +1,15 @@
+# Video Anomaly Detection
+
+This repository contains an implementation of a multi-stage deep learning model for detecting anomalies in videos.
+
+## Features:
+✔️ Simulated video dataset  
+✔️ Feature extraction using ViT & I3D  
+✔️ Graph-based enhancement  
+✔️ MLP classification  
+
+## Installation
+Clone the repository:
+```sh
+git clone https://github.com/your-username/video-anomaly-detection.git
+cd video-anomaly-detection
